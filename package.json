@@ -1,0 +1,20 @@
+{
+  "name": "reactwebpackbabel",
+  "version": "1.0.0",
+  "description": "Baseline scaffolding to create a React ES6 Builder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fungi1227/react-webpack-babel.git"
+  },
+  "keywords": [
+    "React",
+    "Webpack",
+    "Babel"
+  ],
+  "author": "Chad Davis",
+  "license": "MIT"
+}
